@@ -23,6 +23,15 @@
 				<role>Developer</role>
 			</roles>
 		</developer>
+		<developer>
+			<name>Maria</name>
+			<email>100292463@alumnos.uc3m.es</email>
+			<organization>TIW</organization>
+			<organizationUrl>http://www.dei.inf.uc3m.es</organizationUrl>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
 	</developers>
 	<properties>
 
